@@ -15,6 +15,11 @@ public static void main(String[] args) {
     	 System.out.println("Factorial of no is..."+fact);
      } else {System.out.println("Enter proper input...");} 
      
+     s.close();
      }
+
+ 	
+ 	
+
 
 }
